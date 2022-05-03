@@ -1,0 +1,28 @@
+{
+  "name": "projeto03_backend_blue-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuelevaristo/projeto03_backend_blue-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuelevaristo/projeto03_backend_blue-/issues"
+  },
+  "homepage": "https://github.com/Manuelevaristo/projeto03_backend_blue-#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
